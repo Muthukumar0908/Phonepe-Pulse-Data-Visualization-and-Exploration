@@ -17,7 +17,7 @@ mycursor=mydb.cursor(buffered=True)
 mycursor.execute("USE phonepee")
 
 icon = Image.open(r"E:\streamlit\images.png")
-st.set_page_config(page_title= "PhonePe Pulse Data Visualization | By Samuel Solomon",
+st.set_page_config(page_title= "PhonePe Pulse Data Visualization ",
                    page_icon= icon,
                    layout= "wide")
 
