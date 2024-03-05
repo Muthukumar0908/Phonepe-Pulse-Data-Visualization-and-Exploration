@@ -7,6 +7,8 @@ Domain: Fintech.
 
 Dataset Link: https://github.com/PhonePe/pulse#readme
 
+YouTube link: https://youtu.be/k2n6S3hv5rk
+
 Inspired From: https://www.phonepe.com/pulse/explore/transaction/2022/4/
 
 Problem Statement:
